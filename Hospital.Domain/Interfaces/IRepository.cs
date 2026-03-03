@@ -9,6 +9,6 @@ namespace Hospital.Core.Interfaces
 
         T GetById(int id);
         void Update(T entity);
-        void Delete(T entity);
+        void Delete(int id);
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj": {}
+    "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj": {
+    "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj",
+        "projectUniqueName": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj",
         "projectName": "Hospital.Core",
-        "projectPath": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj",
+        "projectPath": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj",
         "packagesPath": "/Users/nrs/.nuget/packages/",
-        "outputPath": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/",
+        "outputPath": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nrs/.nuget/NuGet/NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj": {
+    "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj",
+        "projectUniqueName": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj",
         "projectName": "Hospital.Infrastructure",
-        "projectPath": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj",
+        "projectPath": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/Hospital.Infrastructure.csproj",
         "packagesPath": "/Users/nrs/.nuget/packages/",
-        "outputPath": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/obj/",
+        "outputPath": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nrs/.nuget/NuGet/NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj": {
-                "projectPath": "/Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj"
+              "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj": {
+                "projectPath": "/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/Hospital.Core.csproj"
               }
             }
           }
