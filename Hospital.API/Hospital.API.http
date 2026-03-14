@@ -1,6 +1,6 @@
-@Hospital.API_HostAddress = http://localhost:5104
+@HostAddress = http://localhost:5104
 
-GET {{Hospital.API_HostAddress}}/weatherforecast/
+GET {{HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

@@ -10,3 +10,15 @@
 /Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/refint/Hospital.Core.dll
 /Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.pdb
 /Users/nrs/TopBrains/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/ref/Hospital.Core.dll
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/bin/Debug/net10.0/Hospital.Core.deps.json
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/bin/Debug/net10.0/Hospital.Core.dll
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/bin/Debug/net10.0/Hospital.Core.pdb
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.AssemblyInfoInputs.cache
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.AssemblyInfo.cs
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.csproj.CoreCompileInputs.cache
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.sourcelink.json
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.dll
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/refint/Hospital.Core.dll
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/Hospital.Core.pdb
+/Users/nrs/IncreamentalProject/HospitalManagementSystem/Hospital.Domain/obj/Debug/net10.0/ref/Hospital.Core.dll
